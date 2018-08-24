@@ -1,4 +1,4 @@
-# AWS Mobile React Starter Kit
+# 1AWS Mobile React Starter Kit
 
 **Please submit issues to the [aws-amplify](https://github.com/aws/aws-amplify/issues) repository.**
 
